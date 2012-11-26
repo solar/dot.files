@@ -4,3 +4,7 @@
 [user]
     email = github@sazabi.org
     name = solar
+[push]
+    default = simple
+[alias]
+    log-all = log --graph --color --date-order -C -M --pretty=format:\"<%h> %ad [%an] %Cgreen%d%Creset %s\" --all --date=short
