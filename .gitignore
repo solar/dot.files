@@ -1,1 +1,5 @@
 /.sbt/**/*.sbt
+/.sbt/boot/
+/.sbt/0.13/plugins/project/
+/.sbt/0.13/plugins/target/
+/.sbt/0.13/target/
