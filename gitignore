@@ -1,1 +1,7 @@
+.ctags
+.direnv/
+.envrc
 .local.vimrc
+project/project/
+project/target
+tags
